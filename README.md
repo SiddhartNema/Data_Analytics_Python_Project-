@@ -1,2 +1,2 @@
 # Data_Analytics_Python_Project-
-# this is a python student exam result analysis project uing pandas, numpy, matlab, seaborn library
+# This is a Python student exam result analysis project using pandas, numpy, Matlab, seaborn library
